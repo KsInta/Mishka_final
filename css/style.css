@@ -1549,7 +1549,7 @@ img {
 .video-block__descr {
   margin-bottom: -3px;
 }
-@media (min-width: 768px) {
+@media (min-width: 795px) {
   .header-logo {
     -ms-flex-order: 1;
     order: 1;
@@ -2343,7 +2343,7 @@ img {
     width: 100%;
   }
 }
-@media (min-width: 768px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 768px) and (min-resolution: 144dpi), (min-width: 768px) and (min-resolution: 1.5dppx) {
+@media (min-width: 795px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 795px) and (min-resolution: 144dpi), (min-width: 795px) and (min-resolution: 1.5dppx) {
   .page-content__title--background-image {
     background: url('../img/page-content/hero-desktop@2x.jpg') no-repeat;
     background-size: 1150px auto;
@@ -2357,7 +2357,7 @@ img {
     background-size: 668px 455px;
   }
 }
-@media (min-width: 1150px) {
+@media (min-width: 1169px) {
   .header-logo {
     -ms-flex-order: 2;
     order: 2;
@@ -2790,13 +2790,13 @@ img {
     margin-bottom: 50px;
   }
 }
-@media (min-width: 1150px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1150px) and (min-resolution: 144dpi), (min-width: 1150px) and (min-resolution: 1.5dppx) {
+@media (min-width: 1169px) and (-webkit-min-device-pixel-ratio: 1.5), (min-width: 1169px) and (min-resolution: 144dpi), (min-width: 1169px) and (min-resolution: 1.5dppx) {
   .video-block__player {
     background-image: url('../img/video-block/video-desktop@2x.jpg');
     background-size: 682px 455px;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 794px) {
   .btn {
     width: 256px;
     margin: 0 auto;
